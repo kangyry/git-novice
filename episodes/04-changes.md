@@ -40,7 +40,7 @@ $ nano mars.txt
 Type the text below into the `mars.txt` file:
 
 ```output
-Cold and dry, but everything is my favorite color
+Cold and dry, but everything is my favourite colour
 ```
 
 Let's first verify that the file was properly created by running the list command (`ls`):
@@ -60,7 +60,7 @@ $ cat mars.txt
 ```
 
 ```output
-Cold and dry, but everything is my favorite color
+Cold and dry, but everything is my favourite colour
 ```
 
 If we check the status of our project again,
@@ -199,7 +199,7 @@ $ cat mars.txt
 ```
 
 ```output
-Cold and dry, but everything is my favorite color
+Cold and dry, but everything is my favourite colour
 The two moons may be a problem for Wolfman
 ```
 
@@ -242,7 +242,7 @@ index df0654a..315bf3a 100644
 --- a/mars.txt
 +++ b/mars.txt
 @@ -1 +1,2 @@
- Cold and dry, but everything is my favorite color
+ Cold and dry, but everything is my favourite colour
 +The two moons may be a problem for Wolfman
 ```
 
@@ -348,7 +348,7 @@ $ cat mars.txt
 ```
 
 ```output
-Cold and dry, but everything is my favorite color
+Cold and dry, but everything is my favourite colour
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 ```
@@ -363,7 +363,7 @@ index 315bf3a..b36abfd 100644
 --- a/mars.txt
 +++ b/mars.txt
 @@ -1,2 +1,3 @@
- Cold and dry, but everything is my favorite color
+ Cold and dry, but everything is my favourite colour
  The two moons may be a problem for Wolfman
 +But the Mummy will appreciate the lack of humidity
 ```
@@ -396,7 +396,7 @@ index 315bf3a..b36abfd 100644
 --- a/mars.txt
 +++ b/mars.txt
 @@ -1,2 +1,3 @@
- Cold and dry, but everything is my favorite color
+ Cold and dry, but everything is my favourite colour
  The two moons may be a problem for Wolfman
 +But the Mummy will appreciate the lack of humidity
 ```
